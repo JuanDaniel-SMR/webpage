@@ -1,0 +1,52 @@
+.header h1 {
+    color: blue;
+    text-align: center;
+    font-size: 48px;
+    font-family: Comic Sans MS;
+    text-decoration: underline;
+}
+.header p {
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-family: Verdana;
+}
+.contenido h2 {
+    color: green;
+    text-align: center;
+    font-size: 32px;
+    font-family: Verdana;
+}
+.contenido p {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana;
+}
+.contenido li {
+    color: purple;
+    text-align: center;
+    font-size: 20px;
+    font-family: Tahoma;
+}
+.contenido ul {
+    list-style-type: square;
+    padding-left: 0px;
+}
+.imagen img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 60px;
+}
+.imagen p {
+    text-align: center;
+    font-size: 18px;
+    font-family: Comic Sans MS;
+    color: black;
+}
+
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/002/204/194/non_2x/technology-background-design-in-white-color-free-vector.jpg');
+    background-size: cover;
+}
